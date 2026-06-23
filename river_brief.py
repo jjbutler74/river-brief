@@ -323,7 +323,7 @@ def send_email(html, flow_data):
         None
     )
 
-    subject = f"🚣 River Brief {today}"
+    subject = f"🚣 Latest River Brief {today}"
     if best:
         subject += f" — {best} is on"
 
