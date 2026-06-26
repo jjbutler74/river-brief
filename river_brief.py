@@ -194,7 +194,7 @@ Current flow data:
 {chr(10).join(f'{i+1}. {s}' for i, s in enumerate(river_summaries))}
 
 Write a direct, opinionated weekend assessment (max 300 words). Structure:
-- Weekend verdict: one-line call on what to paddle this weekend
+- Weekend verdict: one-line call on what to paddle this weekend (only Saturday and Sunday, he works Friday day)
 - Quick 1-2 sentence take on each river worth discussing (skip clearly unrunnable ones, note them as "Not worth it: X, Y")
 - Watch for: anything trending worth monitoring for next weekend
 
